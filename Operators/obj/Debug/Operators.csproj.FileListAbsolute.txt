@@ -1,0 +1,7 @@
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Operators\bin\Debug\Operators.exe.config
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Operators\bin\Debug\Operators.exe
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Operators\bin\Debug\Operators.pdb
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Operators\obj\Debug\Operators.exe
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Operators\obj\Debug\Operators.pdb

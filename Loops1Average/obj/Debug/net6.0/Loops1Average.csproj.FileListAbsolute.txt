@@ -1,0 +1,14 @@
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Loops1Average\bin\Debug\net6.0\Loops1Average.exe
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Loops1Average\bin\Debug\net6.0\Loops1Average.deps.json
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Loops1Average\bin\Debug\net6.0\Loops1Average.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Loops1Average\bin\Debug\net6.0\Loops1Average.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Loops1Average\bin\Debug\net6.0\Loops1Average.pdb
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Loops1Average\obj\Debug\net6.0\Loops1Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Loops1Average\obj\Debug\net6.0\Loops1Average.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Loops1Average\obj\Debug\net6.0\Loops1Average.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Loops1Average\obj\Debug\net6.0\Loops1Average.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Loops1Average\obj\Debug\net6.0\Loops1Average.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Loops1Average\obj\Debug\net6.0\refint\Loops1Average.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Loops1Average\obj\Debug\net6.0\Loops1Average.pdb
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Loops1Average\obj\Debug\net6.0\Loops1Average.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\Loops1Average\obj\Debug\net6.0\ref\Loops1Average.dll

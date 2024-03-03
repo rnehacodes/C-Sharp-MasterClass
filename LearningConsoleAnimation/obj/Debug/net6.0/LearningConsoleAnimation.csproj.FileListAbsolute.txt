@@ -1,0 +1,14 @@
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearningConsoleAnimation\obj\Debug\net6.0\LearningConsoleAnimation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearningConsoleAnimation\obj\Debug\net6.0\LearningConsoleAnimation.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearningConsoleAnimation\obj\Debug\net6.0\LearningConsoleAnimation.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearningConsoleAnimation\obj\Debug\net6.0\LearningConsoleAnimation.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearningConsoleAnimation\bin\Debug\net6.0\LearningConsoleAnimation.exe
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearningConsoleAnimation\bin\Debug\net6.0\LearningConsoleAnimation.deps.json
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearningConsoleAnimation\bin\Debug\net6.0\LearningConsoleAnimation.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearningConsoleAnimation\bin\Debug\net6.0\LearningConsoleAnimation.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearningConsoleAnimation\bin\Debug\net6.0\LearningConsoleAnimation.pdb
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearningConsoleAnimation\obj\Debug\net6.0\LearningConsoleAnimation.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearningConsoleAnimation\obj\Debug\net6.0\refint\LearningConsoleAnimation.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearningConsoleAnimation\obj\Debug\net6.0\LearningConsoleAnimation.pdb
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearningConsoleAnimation\obj\Debug\net6.0\LearningConsoleAnimation.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearningConsoleAnimation\obj\Debug\net6.0\ref\LearningConsoleAnimation.dll

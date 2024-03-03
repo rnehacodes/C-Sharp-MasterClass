@@ -1,0 +1,14 @@
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\ForEach\bin\Debug\net6.0\ForEach.exe
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\ForEach\bin\Debug\net6.0\ForEach.deps.json
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\ForEach\bin\Debug\net6.0\ForEach.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\ForEach\bin\Debug\net6.0\ForEach.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\ForEach\bin\Debug\net6.0\ForEach.pdb
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\ForEach\obj\Debug\net6.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\ForEach\obj\Debug\net6.0\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\ForEach\obj\Debug\net6.0\ForEach.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\ForEach\obj\Debug\net6.0\refint\ForEach.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\ForEach\obj\Debug\net6.0\ForEach.pdb
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\ForEach\obj\Debug\net6.0\ForEach.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\ForEach\obj\Debug\net6.0\ref\ForEach.dll

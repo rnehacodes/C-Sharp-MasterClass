@@ -1,0 +1,14 @@
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearnParams\bin\Debug\net8.0\LearnParams.exe
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearnParams\bin\Debug\net8.0\LearnParams.deps.json
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearnParams\bin\Debug\net8.0\LearnParams.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearnParams\bin\Debug\net8.0\LearnParams.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearnParams\bin\Debug\net8.0\LearnParams.pdb
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearnParams\obj\Debug\net8.0\LearnParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearnParams\obj\Debug\net8.0\LearnParams.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearnParams\obj\Debug\net8.0\LearnParams.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearnParams\obj\Debug\net8.0\LearnParams.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearnParams\obj\Debug\net8.0\LearnParams.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearnParams\obj\Debug\net8.0\refint\LearnParams.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearnParams\obj\Debug\net8.0\LearnParams.pdb
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearnParams\obj\Debug\net8.0\LearnParams.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\LearnParams\obj\Debug\net8.0\ref\LearnParams.dll

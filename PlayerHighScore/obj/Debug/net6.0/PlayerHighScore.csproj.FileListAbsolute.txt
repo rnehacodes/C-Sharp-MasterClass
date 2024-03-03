@@ -1,0 +1,14 @@
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\PlayerHighScore\bin\Debug\net6.0\PlayerHighScore.exe
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\PlayerHighScore\bin\Debug\net6.0\PlayerHighScore.deps.json
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\PlayerHighScore\bin\Debug\net6.0\PlayerHighScore.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\PlayerHighScore\bin\Debug\net6.0\PlayerHighScore.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\PlayerHighScore\bin\Debug\net6.0\PlayerHighScore.pdb
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\PlayerHighScore\obj\Debug\net6.0\PlayerHighScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\PlayerHighScore\obj\Debug\net6.0\PlayerHighScore.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\PlayerHighScore\obj\Debug\net6.0\PlayerHighScore.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\PlayerHighScore\obj\Debug\net6.0\PlayerHighScore.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\PlayerHighScore\obj\Debug\net6.0\PlayerHighScore.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\PlayerHighScore\obj\Debug\net6.0\refint\PlayerHighScore.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\PlayerHighScore\obj\Debug\net6.0\PlayerHighScore.pdb
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\PlayerHighScore\obj\Debug\net6.0\PlayerHighScore.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\PlayerHighScore\obj\Debug\net6.0\ref\PlayerHighScore.dll

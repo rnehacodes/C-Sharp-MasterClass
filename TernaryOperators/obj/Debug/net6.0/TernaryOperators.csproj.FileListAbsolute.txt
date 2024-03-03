@@ -1,0 +1,14 @@
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\TernaryOperators\bin\Debug\net6.0\TernaryOperators.exe
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\TernaryOperators\bin\Debug\net6.0\TernaryOperators.deps.json
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\TernaryOperators\bin\Debug\net6.0\TernaryOperators.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\TernaryOperators\bin\Debug\net6.0\TernaryOperators.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\TernaryOperators\bin\Debug\net6.0\TernaryOperators.pdb
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\TernaryOperators\obj\Debug\net6.0\TernaryOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\TernaryOperators\obj\Debug\net6.0\TernaryOperators.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\TernaryOperators\obj\Debug\net6.0\TernaryOperators.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\TernaryOperators\obj\Debug\net6.0\TernaryOperators.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\TernaryOperators\obj\Debug\net6.0\TernaryOperators.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\TernaryOperators\obj\Debug\net6.0\refint\TernaryOperators.dll
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\TernaryOperators\obj\Debug\net6.0\TernaryOperators.pdb
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\TernaryOperators\obj\Debug\net6.0\TernaryOperators.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\CSharp MasterClass\TernaryOperators\obj\Debug\net6.0\ref\TernaryOperators.dll
