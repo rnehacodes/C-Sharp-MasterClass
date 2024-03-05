@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TryAndCatch
-build_property.ProjectDir = C:\Users\neha.rajput\Desktop\Learning\C-Sharp-MasterClass\CSharp MasterClass\Try&Catch\TryAndCatch\
+build_property.ProjectDir = C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Try&Catch\TryAndCatch\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

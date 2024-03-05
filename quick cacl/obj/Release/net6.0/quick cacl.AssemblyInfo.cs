@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("quick cacl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7145300c5bcba8f994164c61da5382561d256f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3961577467e6c142d33242c2ad2bf892469ea00f")]
 [assembly: System.Reflection.AssemblyProductAttribute("quick cacl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("quick cacl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

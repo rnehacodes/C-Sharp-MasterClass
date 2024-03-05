@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/C#MasterClass/FileContentIndex/6a94e03b-95c0-4c24-995d-b047ff70ba47.vsidx
+/.vs/slnx.sqlite
+/.vs/C#MasterClass/FileContentIndex/d6a53dc9-a599-4a8b-a29c-d7566957ae9c.vsidx
+/.vs/C#MasterClass/FileContentIndex/5bba49b8-f6fb-4ef1-ac55-57e2b0418942.vsidx
+/.vs/C#MasterClass/FileContentIndex/0139e644-8ac5-4eeb-bc5c-d6b29e835943.vsidx
+/.vs/C#MasterClass/FileContentIndex/ebc56477-1d16-45d8-819c-b95ae1765cb1.vsidx
+/.vs/C#MasterClass/FileContentIndex/e40d3ffc-73b1-41a1-ace6-a65138272ab0.vsidx
+/.vs/C#MasterClass/FileContentIndex/79342d26-98db-4189-a97d-20013ef33e2d.vsidx
+/.vs/C#MasterClass/FileContentIndex/2cf9e113-5410-489b-a55d-3f2f7d5c0354.vsidx
+/.vs/C#MasterClass/FileContentIndex/01bda82a-5186-413d-a9c4-2aaa101c6b6b.vsidx
+*.vsidx
