@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
+            //Initialising a Stack
             Stack<int> myStack = new Stack<int>();
+            
+            //Adding elements to the stack
             myStack.Push(45);
             myStack.Push(92);
             myStack.Push(30);
@@ -15,12 +18,14 @@
             myStack.Push(27);
             Console.WriteLine("Top value in the stack is : {0}", myStack.Peek());
 
+            //Removing elements from the stack
             myStack.Pop();
             Console.WriteLine("After popping,the Top value in the stack is : {0} ", myStack.Peek());
 
             int element = myStack.Pop();
             Console.WriteLine("The element popped from the stack is {0}", element);
 
+            //Removing elements from the stack until the stack get empty
             while(myStack.Count > 0)
             {
                 Console.WriteLine($"Removed {myStack.Pop()} from the stack.");
