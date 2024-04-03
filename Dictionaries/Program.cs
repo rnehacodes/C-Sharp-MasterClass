@@ -20,6 +20,8 @@
                 {'c', "Chikoo" }
             };
 
+            Console.WriteLine(testDictionary[]);
+
             foreach (var fruits in testDictionary.ToArray())
             {
                 Console.WriteLine(fruits);

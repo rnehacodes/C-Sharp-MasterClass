@@ -1,0 +1,15 @@
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Stacks\bin\Debug\net8.0\Stacks.exe
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Stacks\bin\Debug\net8.0\Stacks.deps.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Stacks\bin\Debug\net8.0\Stacks.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Stacks\bin\Debug\net8.0\Stacks.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Stacks\bin\Debug\net8.0\Stacks.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Stacks\obj\Debug\net8.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Stacks\obj\Debug\net8.0\Stacks.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Stacks\obj\Debug\net8.0\Stacks.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Stacks\obj\Debug\net8.0\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Stacks\obj\Debug\net8.0\Stacks.sourcelink.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Stacks\obj\Debug\net8.0\Stacks.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Stacks\obj\Debug\net8.0\refint\Stacks.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Stacks\obj\Debug\net8.0\Stacks.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Stacks\obj\Debug\net8.0\Stacks.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Stacks\obj\Debug\net8.0\ref\Stacks.dll
