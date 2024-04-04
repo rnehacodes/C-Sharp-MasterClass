@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HashTables Challenges")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a98a85193ef179ac352ff96c4446c6704fb1089d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7788bee37631a88bb90a74a927f366e66c9757e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HashTables Challenges")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HashTables Challenges")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
