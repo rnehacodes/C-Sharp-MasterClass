@@ -5,27 +5,30 @@
         static void Main(string[] args)
         {
             /*Part 1 - Basics*/
-            ////Initializing Queue
-            //Queue<int> myQueue = new Queue<int>();
+            Console.WriteLine("~~~~~~~~~~~~~~~~Part 1 - Basics~~~~~~~~~~~~~~~~");
 
-            ////Adding an element to the Queue
-            //myQueue.Enqueue(1);
+            //Initializing Queue
+            Queue<int> myQueue = new Queue<int>();
 
-            ////Fetching the element from Queue (fetches the first inserted element of the queue)
-            //Console.WriteLine("The value at the begining of the Queue is : {0}", myQueue.Peek());
+            //Adding an element to the Queue
+            myQueue.Enqueue(1);
 
-            //for(int i = 2; i < 10; i++)
-            //{
-            //    myQueue.Enqueue(i);
-            //}
+            //Fetching the element from Queue (fetches the first inserted element of the queue)
+            Console.WriteLine("The value at the begining of the Queue is : {0}", myQueue.Peek());
 
-            //while(myQueue.Count > 0)
-            //{
-            //    Console.WriteLine("The value at the begining of the Queue is : {0}", myQueue.Peek());
-            //    myQueue.Dequeue();
-            //}
+            for (int i = 2; i < 10; i++)
+            {
+                myQueue.Enqueue(i);
+            }
 
-            /*Part 2 - Basics*/
+            while (myQueue.Count > 0)
+            {
+                Console.WriteLine("The value at the begining of the Queue is : {0}", myQueue.Peek());
+                myQueue.Dequeue();
+            }
+
+            /*Part 2 - Intermediate*/
+            Console.WriteLine("\n~~~~~~~~~~~~~~~~Part 1 - Intermediate~~~~~~~~~~~~~~~~");
             Queue<Order> orderQueue = new Queue<Order>();
             foreach (Order order in RecieveOrdersFromBranch1())
             {
