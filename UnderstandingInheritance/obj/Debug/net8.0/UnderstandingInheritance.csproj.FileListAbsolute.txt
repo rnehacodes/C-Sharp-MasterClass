@@ -1,0 +1,15 @@
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\UnderstandingInheritance\bin\Debug\net8.0\UnderstandingInheritance.exe
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\UnderstandingInheritance\bin\Debug\net8.0\UnderstandingInheritance.deps.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\UnderstandingInheritance\bin\Debug\net8.0\UnderstandingInheritance.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\UnderstandingInheritance\bin\Debug\net8.0\UnderstandingInheritance.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\UnderstandingInheritance\bin\Debug\net8.0\UnderstandingInheritance.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\UnderstandingInheritance\obj\Debug\net8.0\UnderstandingInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\UnderstandingInheritance\obj\Debug\net8.0\UnderstandingInheritance.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\UnderstandingInheritance\obj\Debug\net8.0\UnderstandingInheritance.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\UnderstandingInheritance\obj\Debug\net8.0\UnderstandingInheritance.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\UnderstandingInheritance\obj\Debug\net8.0\UnderstandingInheritance.sourcelink.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\UnderstandingInheritance\obj\Debug\net8.0\UnderstandingInheritance.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\UnderstandingInheritance\obj\Debug\net8.0\refint\UnderstandingInheritance.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\UnderstandingInheritance\obj\Debug\net8.0\UnderstandingInheritance.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\UnderstandingInheritance\obj\Debug\net8.0\UnderstandingInheritance.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\UnderstandingInheritance\obj\Debug\net8.0\ref\UnderstandingInheritance.dll

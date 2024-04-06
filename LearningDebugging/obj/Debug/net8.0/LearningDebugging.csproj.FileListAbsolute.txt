@@ -1,0 +1,15 @@
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\LearningDebugging\bin\Debug\net8.0\LearningDebugging.exe
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\LearningDebugging\bin\Debug\net8.0\LearningDebugging.deps.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\LearningDebugging\bin\Debug\net8.0\LearningDebugging.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\LearningDebugging\bin\Debug\net8.0\LearningDebugging.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\LearningDebugging\bin\Debug\net8.0\LearningDebugging.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\LearningDebugging\obj\Debug\net8.0\LearningDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\LearningDebugging\obj\Debug\net8.0\LearningDebugging.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\LearningDebugging\obj\Debug\net8.0\LearningDebugging.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\LearningDebugging\obj\Debug\net8.0\LearningDebugging.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\LearningDebugging\obj\Debug\net8.0\LearningDebugging.sourcelink.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\LearningDebugging\obj\Debug\net8.0\LearningDebugging.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\LearningDebugging\obj\Debug\net8.0\refint\LearningDebugging.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\LearningDebugging\obj\Debug\net8.0\LearningDebugging.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\LearningDebugging\obj\Debug\net8.0\LearningDebugging.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\LearningDebugging\obj\Debug\net8.0\ref\LearningDebugging.dll
