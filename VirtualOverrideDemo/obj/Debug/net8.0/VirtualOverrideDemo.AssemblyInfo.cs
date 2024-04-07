@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VirtualOverrideDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+673ab0700c5651c33e5446c36927b860e64ea338")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41907a0325afa01aefa9f964b523d4aeb190d9be")]
 [assembly: System.Reflection.AssemblyProductAttribute("VirtualOverrideDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VirtualOverrideDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
