@@ -14,14 +14,14 @@ namespace InheritanceDemo
         protected int ID { get; set; }
         protected  string Title {  get; set; }
         protected string SendByUsername { get; set; }
-        protected bool IspUblic { get; set; }
+        protected bool IsPublic { get; set; }
 
         //Default constructor
         public Post()
         {
             ID = 0;
             Title = "My First Post";
-            IspUblic = true;
+            IsPublic = true;
             SendByUsername = "PostSender.User";
         }
 
@@ -31,7 +31,7 @@ namespace InheritanceDemo
             this.ID = GetNextID();
             this.Title = title;
             this.SendByUsername = sendByUsername;
-            this.IspUblic = isPublic;
+            this.IsPublic = isPublic;
         }
 
         protected int GetNextID()
@@ -42,7 +42,7 @@ namespace InheritanceDemo
         public void UpdatePost(string title, bool isPublic)
         {
             this.Title = title;
-            this.IspUblic = isPublic;
+            this.IsPublic = isPublic;
         }
 
         public override string ToString()

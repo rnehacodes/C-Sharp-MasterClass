@@ -18,7 +18,7 @@ namespace InheritanceDemo
             this.ID = GetNextID();
             this.Title = title;
             this.SendByUsername = sendByUsername;
-            this.IspUblic = isPublic;
+            this.IsPublic = isPublic;
             this.ImageURL = imageURL;
         }
         public override string ToString()

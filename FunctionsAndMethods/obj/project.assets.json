@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\neha.rajput\\Desktop\\Learning\\CSharp MasterClass\\FunctionsAndMethoda\\FunctionsAndMethods.csproj",
+      "projectUniqueName": "C:\\Users\\neha.rajput\\Desktop\\Learning\\C#MasterClass\\FunctionsAndMethods\\FunctionsAndMethods.csproj",
       "projectName": "FunctionsAndMethods",
-      "projectPath": "C:\\Users\\neha.rajput\\Desktop\\Learning\\CSharp MasterClass\\FunctionsAndMethoda\\FunctionsAndMethods.csproj",
+      "projectPath": "C:\\Users\\neha.rajput\\Desktop\\Learning\\C#MasterClass\\FunctionsAndMethods\\FunctionsAndMethods.csproj",
       "packagesPath": "C:\\Users\\neha.rajput\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\neha.rajput\\Desktop\\Learning\\CSharp MasterClass\\FunctionsAndMethoda\\obj\\",
+      "outputPath": "C:\\Users\\neha.rajput\\Desktop\\Learning\\C#MasterClass\\FunctionsAndMethods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\neha.rajput\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
