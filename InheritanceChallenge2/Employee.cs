@@ -16,17 +16,21 @@ namespace InheritanceChallenge2
         public Employee(string name, string firstName, int salary)
         {
             this.Name = name;
-            this.FirstName = FirstName;
+            this.FirstName = firstName;
             this.Salary = salary;
         }
 
-        public void Work()
+        public virtual void Work()
         {
-            Console.WriteLine("{0} has started working.", Name);
+            Console.WriteLine("{0} has started working.(Average working hours = 8 hrs)", Name);
         }
         public void Pause()
         {
             Console.WriteLine("{0}'s work has been paused.", Name);
+        }
+        public override string ToString()
+        {
+            return $"Name - {Name}, First Name - {FirstName}, Salary - {Salary}";
         }
     }
 }
