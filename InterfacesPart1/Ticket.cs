@@ -13,7 +13,7 @@ namespace InterfacesPart1
         {
             this.DurationInHours = durationInHours;
         }
-        public bool IsEquals(Ticket other)
+        public bool Equals(Ticket other)
         {
             return this.DurationInHours == other.DurationInHours;
         }

@@ -3,3 +3,13 @@ C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesPart1\obj\Debug\ne
 C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesPart1\obj\Debug\net8.0\InterfacesPart1.AssemblyInfo.cs
 C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesPart1\obj\Debug\net8.0\InterfacesPart1.csproj.CoreCompileInputs.cache
 C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesPart1\obj\Debug\net8.0\InterfacesPart1.sourcelink.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesPart1\bin\Debug\net8.0\InterfacesPart1.exe
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesPart1\bin\Debug\net8.0\InterfacesPart1.deps.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesPart1\bin\Debug\net8.0\InterfacesPart1.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesPart1\bin\Debug\net8.0\InterfacesPart1.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesPart1\bin\Debug\net8.0\InterfacesPart1.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesPart1\obj\Debug\net8.0\InterfacesPart1.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesPart1\obj\Debug\net8.0\refint\InterfacesPart1.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesPart1\obj\Debug\net8.0\InterfacesPart1.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesPart1\obj\Debug\net8.0\InterfacesPart1.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesPart1\obj\Debug\net8.0\ref\InterfacesPart1.dll
