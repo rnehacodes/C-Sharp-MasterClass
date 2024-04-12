@@ -1,0 +1,15 @@
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesDemo\bin\Debug\net8.0\InterfacesDemo.exe
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesDemo\bin\Debug\net8.0\InterfacesDemo.deps.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesDemo\bin\Debug\net8.0\InterfacesDemo.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesDemo\bin\Debug\net8.0\InterfacesDemo.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesDemo\bin\Debug\net8.0\InterfacesDemo.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.sourcelink.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesDemo\obj\Debug\net8.0\refint\InterfacesDemo.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\InterfacesDemo\obj\Debug\net8.0\ref\InterfacesDemo.dll
