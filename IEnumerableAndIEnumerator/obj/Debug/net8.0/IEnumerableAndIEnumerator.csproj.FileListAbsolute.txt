@@ -1,0 +1,15 @@
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerableAndIEnumerator\bin\Debug\net8.0\IEnumerableAndIEnumerator.exe
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerableAndIEnumerator\bin\Debug\net8.0\IEnumerableAndIEnumerator.deps.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerableAndIEnumerator\bin\Debug\net8.0\IEnumerableAndIEnumerator.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerableAndIEnumerator\bin\Debug\net8.0\IEnumerableAndIEnumerator.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerableAndIEnumerator\bin\Debug\net8.0\IEnumerableAndIEnumerator.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerableAndIEnumerator\obj\Debug\net8.0\IEnumerableAndIEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerableAndIEnumerator\obj\Debug\net8.0\IEnumerableAndIEnumerator.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerableAndIEnumerator\obj\Debug\net8.0\IEnumerableAndIEnumerator.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerableAndIEnumerator\obj\Debug\net8.0\IEnumerableAndIEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerableAndIEnumerator\obj\Debug\net8.0\IEnumerableAndIEnumerator.sourcelink.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerableAndIEnumerator\obj\Debug\net8.0\IEnumerableAndIEnumerator.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerableAndIEnumerator\obj\Debug\net8.0\refint\IEnumerableAndIEnumerator.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerableAndIEnumerator\obj\Debug\net8.0\IEnumerableAndIEnumerator.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerableAndIEnumerator\obj\Debug\net8.0\IEnumerableAndIEnumerator.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerableAndIEnumerator\obj\Debug\net8.0\ref\IEnumerableAndIEnumerator.dll
