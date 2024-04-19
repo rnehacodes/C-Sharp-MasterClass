@@ -1,0 +1,15 @@
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerable3\bin\Debug\net8.0\IEnumerable3.exe
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerable3\bin\Debug\net8.0\IEnumerable3.deps.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerable3\bin\Debug\net8.0\IEnumerable3.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerable3\bin\Debug\net8.0\IEnumerable3.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerable3\bin\Debug\net8.0\IEnumerable3.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerable3\obj\Debug\net8.0\IEnumerable3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerable3\obj\Debug\net8.0\IEnumerable3.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerable3\obj\Debug\net8.0\IEnumerable3.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerable3\obj\Debug\net8.0\IEnumerable3.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerable3\obj\Debug\net8.0\IEnumerable3.sourcelink.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerable3\obj\Debug\net8.0\IEnumerable3.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerable3\obj\Debug\net8.0\refint\IEnumerable3.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerable3\obj\Debug\net8.0\IEnumerable3.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerable3\obj\Debug\net8.0\IEnumerable3.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\IEnumerable3\obj\Debug\net8.0\ref\IEnumerable3.dll
