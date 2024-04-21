@@ -10,6 +10,14 @@ namespace PolymorphismC_
     {
         public int HP { get; set; }
         public string Color { get; set; }
+        
+        protected CarInfo carIDInfo = new CarInfo();
+        
+        public void SetCarIDInfo(int idNum, string owner)
+        {
+            carIDInfo.Id = idNum;
+            carIDInfo.Owner = owner;
+        }
 
         public Car(int hP, string color)
         {

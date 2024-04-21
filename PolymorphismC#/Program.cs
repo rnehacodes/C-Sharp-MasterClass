@@ -32,7 +32,10 @@
             bmw3.ShowDetails(); bmw3.Repair();
 
             BMW newBMW = new BMW("H8", 870, "Silver");
-            newBMW.ShowDetails(); newBMW.Repair();
+            newBMW.ShowDetails();
+
+            Car carB = (Car)newBMW;
+            carB.ShowDetails();
         }
     }
 }

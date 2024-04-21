@@ -15,7 +15,7 @@ namespace PolymorphismC_
         {
             this.Model = model;
         }
-        public override void ShowDetails()
+        public sealed override void ShowDetails()
         {
             Console.WriteLine($"Audi Model {Model} has HP: {HP}, Color: {Color}");
         }
