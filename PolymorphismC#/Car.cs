@@ -19,6 +19,11 @@ namespace PolymorphismC_
             carIDInfo.Owner = owner;
         }
 
+        public void GetCarIDInfo()
+        {
+            Console.WriteLine($"The car with id {carIDInfo.Id} is owned by {carIDInfo.Owner}");
+        }
+
         public Car(int hP, string color)
         {
             this.HP = hP;
