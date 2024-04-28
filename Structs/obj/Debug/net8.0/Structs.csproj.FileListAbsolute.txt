@@ -1,0 +1,15 @@
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Structs\bin\Debug\net8.0\Structs.exe
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Structs\bin\Debug\net8.0\Structs.deps.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Structs\bin\Debug\net8.0\Structs.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Structs\bin\Debug\net8.0\Structs.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Structs\bin\Debug\net8.0\Structs.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Structs\obj\Debug\net8.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Structs\obj\Debug\net8.0\Structs.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Structs\obj\Debug\net8.0\Structs.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Structs\obj\Debug\net8.0\Structs.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Structs\obj\Debug\net8.0\Structs.sourcelink.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Structs\obj\Debug\net8.0\Structs.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Structs\obj\Debug\net8.0\refint\Structs.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Structs\obj\Debug\net8.0\Structs.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Structs\obj\Debug\net8.0\Structs.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Structs\obj\Debug\net8.0\ref\Structs.dll

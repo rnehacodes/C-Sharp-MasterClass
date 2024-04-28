@@ -1,0 +1,15 @@
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\ParsingGame1\bin\Debug\net8.0\ParsingGame1.exe
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\ParsingGame1\bin\Debug\net8.0\ParsingGame1.deps.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\ParsingGame1\bin\Debug\net8.0\ParsingGame1.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\ParsingGame1\bin\Debug\net8.0\ParsingGame1.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\ParsingGame1\bin\Debug\net8.0\ParsingGame1.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\ParsingGame1\obj\Debug\net8.0\ParsingGame1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\ParsingGame1\obj\Debug\net8.0\ParsingGame1.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\ParsingGame1\obj\Debug\net8.0\ParsingGame1.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\ParsingGame1\obj\Debug\net8.0\ParsingGame1.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\ParsingGame1\obj\Debug\net8.0\ParsingGame1.sourcelink.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\ParsingGame1\obj\Debug\net8.0\ParsingGame1.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\ParsingGame1\obj\Debug\net8.0\refint\ParsingGame1.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\ParsingGame1\obj\Debug\net8.0\ParsingGame1.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\ParsingGame1\obj\Debug\net8.0\ParsingGame1.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\ParsingGame1\obj\Debug\net8.0\ref\ParsingGame1.dll
