@@ -1,0 +1,15 @@
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Enums\bin\Debug\net8.0\Enums.exe
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Enums\bin\Debug\net8.0\Enums.deps.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Enums\bin\Debug\net8.0\Enums.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Enums\bin\Debug\net8.0\Enums.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Enums\bin\Debug\net8.0\Enums.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Enums\obj\Debug\net8.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Enums\obj\Debug\net8.0\Enums.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Enums\obj\Debug\net8.0\Enums.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Enums\obj\Debug\net8.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Enums\obj\Debug\net8.0\Enums.sourcelink.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Enums\obj\Debug\net8.0\Enums.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Enums\obj\Debug\net8.0\refint\Enums.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Enums\obj\Debug\net8.0\Enums.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Enums\obj\Debug\net8.0\Enums.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\Enums\obj\Debug\net8.0\ref\Enums.dll
