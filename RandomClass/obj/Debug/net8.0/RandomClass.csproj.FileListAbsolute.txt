@@ -1,0 +1,15 @@
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\RandomClass\bin\Debug\net8.0\RandomClass.exe
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\RandomClass\bin\Debug\net8.0\RandomClass.deps.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\RandomClass\bin\Debug\net8.0\RandomClass.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\RandomClass\bin\Debug\net8.0\RandomClass.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\RandomClass\bin\Debug\net8.0\RandomClass.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\RandomClass\obj\Debug\net8.0\RandomClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\RandomClass\obj\Debug\net8.0\RandomClass.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\RandomClass\obj\Debug\net8.0\RandomClass.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\RandomClass\obj\Debug\net8.0\RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\RandomClass\obj\Debug\net8.0\RandomClass.sourcelink.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\RandomClass\obj\Debug\net8.0\RandomClass.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\RandomClass\obj\Debug\net8.0\refint\RandomClass.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\RandomClass\obj\Debug\net8.0\RandomClass.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\RandomClass\obj\Debug\net8.0\RandomClass.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\RandomClass\obj\Debug\net8.0\ref\RandomClass.dll
