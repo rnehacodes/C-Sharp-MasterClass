@@ -1,0 +1,15 @@
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DateTimeLesson\bin\Debug\net8.0\DateTimeLesson.exe
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DateTimeLesson\bin\Debug\net8.0\DateTimeLesson.deps.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DateTimeLesson\bin\Debug\net8.0\DateTimeLesson.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DateTimeLesson\bin\Debug\net8.0\DateTimeLesson.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DateTimeLesson\bin\Debug\net8.0\DateTimeLesson.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DateTimeLesson\obj\Debug\net8.0\DateTimeLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DateTimeLesson\obj\Debug\net8.0\DateTimeLesson.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DateTimeLesson\obj\Debug\net8.0\DateTimeLesson.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DateTimeLesson\obj\Debug\net8.0\DateTimeLesson.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DateTimeLesson\obj\Debug\net8.0\DateTimeLesson.sourcelink.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DateTimeLesson\obj\Debug\net8.0\DateTimeLesson.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DateTimeLesson\obj\Debug\net8.0\refint\DateTimeLesson.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DateTimeLesson\obj\Debug\net8.0\DateTimeLesson.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DateTimeLesson\obj\Debug\net8.0\DateTimeLesson.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DateTimeLesson\obj\Debug\net8.0\ref\DateTimeLesson.dll
