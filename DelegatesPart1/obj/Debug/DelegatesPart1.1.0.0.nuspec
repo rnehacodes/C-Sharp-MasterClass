@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DelegatesPart1</id>
+    <version>1.0.0</version>
+    <authors>DelegatesPart1</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="5a1d56ec46f729f52138bb0bca5d5239f7420d66" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DelegatesPart1\bin\Debug\net8.0\DelegatesPart1.runtimeconfig.json" target="lib\net8.0\DelegatesPart1.runtimeconfig.json" />
+    <file src="C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DelegatesPart1\bin\Debug\net8.0\DelegatesPart1.dll" target="lib\net8.0\DelegatesPart1.dll" />
+  </files>
+</package>

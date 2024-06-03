@@ -1,0 +1,15 @@
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DelegatesIntro\bin\Debug\net8.0\DelegatesIntro.exe
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DelegatesIntro\bin\Debug\net8.0\DelegatesIntro.deps.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DelegatesIntro\bin\Debug\net8.0\DelegatesIntro.runtimeconfig.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DelegatesIntro\bin\Debug\net8.0\DelegatesIntro.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DelegatesIntro\bin\Debug\net8.0\DelegatesIntro.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DelegatesIntro\obj\Debug\net8.0\DelegatesIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DelegatesIntro\obj\Debug\net8.0\DelegatesIntro.AssemblyInfoInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DelegatesIntro\obj\Debug\net8.0\DelegatesIntro.AssemblyInfo.cs
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DelegatesIntro\obj\Debug\net8.0\DelegatesIntro.csproj.CoreCompileInputs.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DelegatesIntro\obj\Debug\net8.0\DelegatesIntro.sourcelink.json
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DelegatesIntro\obj\Debug\net8.0\DelegatesIntro.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DelegatesIntro\obj\Debug\net8.0\refint\DelegatesIntro.dll
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DelegatesIntro\obj\Debug\net8.0\DelegatesIntro.pdb
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DelegatesIntro\obj\Debug\net8.0\DelegatesIntro.genruntimeconfig.cache
+C:\Users\neha.rajput\Desktop\Learning\C#MasterClass\DelegatesIntro\obj\Debug\net8.0\ref\DelegatesIntro.dll
