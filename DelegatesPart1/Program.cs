@@ -28,12 +28,23 @@
 
             Console.WriteLine("List of old people: ");
             DisplayPeople(persons, IsOld);
+
+            //Anonymous Methods
+            FilterDelegate filter = delegate (Person person)
+            {
+                return person.Age >= 20 && person.Age <= 30;
+            };
+            Console.WriteLine("List of ideal working 20s working population:");
+            DisplayPeople(persons, filter);
+
+            Console.WriteLine("All people list:");
+            DisplayPeople(persons, delegate (Person p) { return true; });
         }
         static void DisplayPeople(List<Person> people, FilterDelegate filter)
         {
             foreach (Person person in people)
             {
-                if(filter(person))
+                if (filter(person))
                 {
                     Console.WriteLine($"Name : {person.Name}, Age : {person.Age}");
                 }
