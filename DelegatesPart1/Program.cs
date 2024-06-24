@@ -15,6 +15,7 @@
                 new Person("Marie", 35),
                 new Person("Alexa", 15),
                 new Person("Bixby", 27),
+                new Person("Noah", 19),
                 new Person("Lyla", 30),
                 new Person("Tom", 23),
                 new Person("Hanna", 35)
@@ -39,6 +40,18 @@
 
             Console.WriteLine("All people list:");
             DisplayPeople(persons, delegate (Person p) { return true; });
+
+            //Lamba Expression
+            //Statement Lambda
+            Console.WriteLine("List of people containing 'n' in their name: ");
+            DisplayPeople(persons, (p) =>
+            {
+                return p.Name.Contains("n") || p.Name.Contains("N");
+            });
+
+            //Expression Lambda
+            Console.WriteLine("List of people having age less than 20 yrs: ");
+            DisplayPeople(persons, p => p.Age < 20);
         }
         static void DisplayPeople(List<Person> people, FilterDelegate filter)
         {
