@@ -8,6 +8,11 @@ namespace EventsAndMulticastDelegates
 {
     public class AudioSystem
     {
+        public AudioSystem()
+        {
+            GameEventManager.OnGameStart += StartGame;
+            GameEventManager.OnGameOver += StopGame;
+        }
         private void StartGame()
         {
             Console.WriteLine("Audio System Started.");

@@ -12,7 +12,7 @@ namespace EventsAndMulticastDelegates
         public Player(string playerName)
         {
             PlayerName = playerName;
-            GameEventManager.OnStart += StartGame;
+            GameEventManager.OnGameStart += StartGame;
             GameEventManager.OnGameOver += StopGame;
         }
         private void StartGame()

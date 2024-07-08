@@ -10,6 +10,26 @@ namespace EventsAndMulticastDelegates
     {
         public delegate void GameEvent();
 
-        public static GameEvent OnStart, OnGameOver;
+        public static GameEvent OnGameStart, OnGameOver;
+
+        public static void TriggerGameStart()
+        {
+            if (OnGameStart != null)
+            {
+                Console.WriteLine("The game has started...");
+                //call all the methods subscribed to this event
+                OnGameStart();
+            }
+        }
+
+        public static void TriggerGameStop()
+        {
+            if (OnGameOver != null)
+            {
+                Console.WriteLine("The game has stopped...");
+                //call all the methods subscribed to this event
+                OnGameOver();
+            }
+        }
     }
 }
