@@ -5,14 +5,19 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfDemo"
         mc:Ignorable="d"
-        Title="My WPF Application" Height="450" Width="1400">
+        Title="My WPF Application" Height="450" Width="1500">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="100"/>
-            <ColumnDefinition Width="200*"/>
-            <ColumnDefinition Width="1300*"/>
+            <ColumnDefinition Width="500"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="500"/>
         </Grid.ColumnDefinitions>
-        <Label Content="Hello world from WPF application" HorizontalAlignment="Left" Height="100" VerticalAlignment="Center" Width="780" FontSize="50" Grid.Column="2" Margin="62,0,0,0"/>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="150" />
+        </Grid.RowDefinitions>
+        <Label Content="Hello world from WPF application" FontSize="20" Grid.Column="1" Grid.Row="1"/>
 
     </Grid>
 </Window>
