@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IEnumerable3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0ce69c9665c6476886c92fd5f2c40e1f3b7ca97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f10ce202a680671715c893109f2cb55221bef85f")]
 [assembly: System.Reflection.AssemblyProductAttribute("IEnumerable3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IEnumerable3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
