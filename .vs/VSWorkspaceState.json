@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WpfDemo"
   ],
-  "SelectedNode": "\\VirtualOverrideDemo.sln",
+  "SelectedNode": "\\WpfDemo\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }

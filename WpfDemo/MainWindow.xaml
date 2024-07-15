@@ -8,16 +8,16 @@
         Title="My WPF Application" Height="450" Width="1500">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="500"/>
             <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="500"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition Height="150" />
             <RowDefinition Height="*" />
-            <RowDefinition Height="150" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
         </Grid.RowDefinitions>
-        <Label Content="Hello world from WPF application" FontSize="20" Grid.Column="1" Grid.Row="1"/>
+        <Label Content="Hello world from WPF application lorem impsum" FontSize="20" Grid.Column="1" Grid.Row="1"/>
 
     </Grid>
 </Window>
