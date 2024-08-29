@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WPFGUIChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e555d1c7d28448493e462b6efca424ee165973ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fffc58716f8885e72e3f4cb49b42124d85857d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("WPFGUIChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WPFGUIChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
